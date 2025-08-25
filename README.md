@@ -1,4 +1,6 @@
 ![INFOSTART.RU](https://infostart.ru/bitrix/templates/sandbox_empty/assets/tpl/abo/img/logo.svg)
+
+
 Описание публикации на [INFOSTART.RU](https://infostart.ru/1c/tools/2458900/)
 
 **## MCP 1C Modules Server (stdio)**
